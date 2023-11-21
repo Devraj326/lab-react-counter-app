@@ -1,0 +1,36 @@
+.all{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.redZero{
+  color: red;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+button{
+  background-color: transparent;
+  margin-left: 10px;
+  border: transparent;
+  background-color: antiquewhite;
+  margin: 10px;
+  width: 70px;
+  height: 40px;
+  font-size: 15px;
+  color: rgb(54, 54, 54);
+  border-radius: 5px;
+}
+
+
+button:hover{
+  background-color: rgb(96, 96, 171);
+  color: white;
+  transition: 0.5s;
+  outline: none;
+}
+h1{
+  color: rgb(44, 0, 85);
+}
