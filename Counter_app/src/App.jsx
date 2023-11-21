@@ -37,14 +37,3 @@ export default class App extends React.Component{
   }
 }
 
-// incre=( =>{})
-// this.setState ({count: this,state.count+1})
-
-// constructor (){
-// super()
-// this.state = { count:0 }
-// button onclick={incre}
-
-
-// if(this.this.state.count>0
-// )
